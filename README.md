@@ -5,5 +5,5 @@ Este projeto consiste na análise exploratória e pré-processamento de dados do
 *Objetivo*         
 Investigar padrões e relações entre atributos musicais e a popularidade das faixas, bem como preparar o conjunto de dados para futuros modelos preditivos ou sistemas de recomendação.
 
-*Observações Finais*
+*Observações Finais*</br>
 O trabalho foi estruturado para contemplar não apenas a execução técnica, mas também um storytelling claro e consistente, que conecta cada etapa da análise ao objetivo central do projeto.
